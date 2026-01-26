@@ -1,0 +1,17 @@
+{
+    "address": {
+        "city": "Madhubani",
+        "country": "India",
+        "village": "Basopatti"
+    },
+    "age": 18,
+    "isIntelligent": true,
+    "isStudent": null,
+    "isTeacher": false,
+    "name": "shivamraaz",
+    "subjects": [
+        "python",
+        "science",
+        "AI/ML"
+    ]
+}
